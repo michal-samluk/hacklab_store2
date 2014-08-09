@@ -1,0 +1,153 @@
+---
+item_21:
+  name: Intelligent Rubber Car
+  description: Fuga rem et qui doloribus praesentium omnis. Dolorum inventore nihil
+    delectus ex. Omnis molestiae aliquid eveniet. Accusamus voluptatem error nihil
+    est aut eaque. Consequuntur in non quae libero incidunt sed ut.
+  price: !ruby/object:BigDecimal 18:0.6883E2
+  created_at: 2014-08-08 23:46:05.285545000 Z
+  updated_at: 2014-08-08 23:46:05.285545000 Z
+item_22:
+  name: Practical Concrete Gloves
+  description: Optio qui quisquam. Fugit enim repellat qui aut. Pariatur ipsum aperiam
+    corporis quo illo debitis.
+  price: !ruby/object:BigDecimal 18:0.7E0
+  created_at: 2014-08-08 23:46:05.295550000 Z
+  updated_at: 2014-08-08 23:46:05.295550000 Z
+item_23:
+  name: Practical Granite Hat
+  description: Placeat ipsum excepturi quo temporibus iste rerum neque. Modi omnis
+    dolorem. Autem laudantium ipsa nam eius fuga.
+  price: !ruby/object:BigDecimal 18:0.9943E2
+  created_at: 2014-08-08 23:46:05.297472000 Z
+  updated_at: 2014-08-08 23:46:05.297472000 Z
+item_24:
+  name: Gorgeous Granite Shoes
+  description: Aut minus tempore ullam vitae. Praesentium voluptas nobis assumenda
+    cumque iusto optio. Voluptate ipsa ut dignissimos dolores amet illum. Ab eum exercitationem
+    officiis.
+  price: !ruby/object:BigDecimal 18:0.9802E2
+  created_at: 2014-08-08 23:46:05.299236000 Z
+  updated_at: 2014-08-08 23:46:05.299236000 Z
+item_25:
+  name: Ergonomic Plastic Car
+  description: Est ducimus fugit in repellendus dicta architecto accusantium. Modi
+    facere occaecati et qui. Doloremque quaerat ex nulla dolorem asperiores. Explicabo
+    quasi nostrum quia. Voluptatibus dolores vel tempore et eum at dolorem.
+  price: !ruby/object:BigDecimal 18:0.6009E2
+  created_at: 2014-08-08 23:46:05.301116000 Z
+  updated_at: 2014-08-08 23:46:05.301116000 Z
+item_26:
+  name: Rustic Concrete Hat
+  description: Quibusdam doloremque inventore. Ipsam quod est sed quasi tenetur sit.
+    Alias et aut exercitationem totam repellat.
+  price: !ruby/object:BigDecimal 18:0.6935E2
+  created_at: 2014-08-08 23:46:05.303074000 Z
+  updated_at: 2014-08-08 23:46:05.303074000 Z
+item_27:
+  name: Fantastic Steel Table
+  description: Vitae velit aut porro aut itaque. Quia voluptas facere magnam est natus
+    impedit. Consequatur ea impedit ut dicta in. Ducimus distinctio qui quisquam et
+    deleniti. Molestiae incidunt ex aut rem.
+  price: !ruby/object:BigDecimal 18:0.816E2
+  created_at: 2014-08-08 23:46:05.304958000 Z
+  updated_at: 2014-08-08 23:46:05.304958000 Z
+item_28:
+  name: Practical Steel Table
+  description: Rem similique qui earum fuga quasi minima qui. Enim veritatis consequuntur
+    voluptatem quasi perferendis at. Odio quis atque quia. Vel et nostrum dignissimos
+    laudantium quasi voluptas.
+  price: !ruby/object:BigDecimal 18:0.3439E2
+  created_at: 2014-08-08 23:46:05.306675000 Z
+  updated_at: 2014-08-08 23:46:05.306675000 Z
+item_29:
+  name: Fantastic Plastic Table
+  description: Dicta ut quod at sunt incidunt ut modi. Doloribus deserunt harum. Qui
+    ut officiis sit consequatur voluptate et et.
+  price: !ruby/object:BigDecimal 18:0.3686E2
+  created_at: 2014-08-08 23:46:05.308393000 Z
+  updated_at: 2014-08-08 23:46:05.308393000 Z
+item_30:
+  name: Gorgeous Rubber Shirt
+  description: Enim ipsam facere ratione aut architecto harum. Et vero adipisci inventore
+    officiis. Et repudiandae dicta. Aut commodi dolores.
+  price: !ruby/object:BigDecimal 18:0.5686E2
+  created_at: 2014-08-08 23:46:05.310079000 Z
+  updated_at: 2014-08-08 23:46:05.310079000 Z
+item_31:
+  name: Sleek Cotton Shoes
+  description: Delectus nesciunt et omnis et iusto. Consequatur sapiente ipsum repellat
+    nam. Sit ducimus ut sint veniam totam ipsa. Nesciunt quo illo beatae et expedita
+    quam in. Possimus voluptatibus natus necessitatibus in exercitationem aperiam
+    occaecati.
+  price: !ruby/object:BigDecimal 18:0.6792E2
+  created_at: 2014-08-08 23:46:05.311856000 Z
+  updated_at: 2014-08-08 23:46:05.311856000 Z
+item_32:
+  name: Awesome Rubber Shoes
+  description: Corporis voluptas consequatur sed officiis voluptatem blanditiis nobis.
+    Animi corrupti in. Et mollitia facere. Quod voluptatem laborum atque.
+  price: !ruby/object:BigDecimal 18:0.3057E2
+  created_at: 2014-08-08 23:46:05.313787000 Z
+  updated_at: 2014-08-08 23:46:05.313787000 Z
+item_33:
+  name: Intelligent Rubber Shoes
+  description: Porro totam et molestias est. Culpa enim sed soluta id est. Veritatis
+    in sint explicabo. Possimus tempore dolorem assumenda quo adipisci mollitia est.
+    Voluptas enim assumenda quae aliquam qui.
+  price: !ruby/object:BigDecimal 18:0.4047E2
+  created_at: 2014-08-08 23:46:05.315640000 Z
+  updated_at: 2014-08-08 23:46:05.315640000 Z
+item_34:
+  name: Small Steel Chair
+  description: Ex provident occaecati dolorum temporibus assumenda iure. Veniam suscipit
+    non nihil. Eligendi rerum quidem.
+  price: !ruby/object:BigDecimal 18:0.312E1
+  created_at: 2014-08-08 23:46:05.317434000 Z
+  updated_at: 2014-08-08 23:46:05.317434000 Z
+item_35:
+  name: Intelligent Cotton Computer
+  description: Optio numquam consequatur distinctio perspiciatis libero ad. Tenetur
+    ad sit eaque enim odio. Quaerat consequatur cupiditate dignissimos. Delectus eius
+    est rerum doloremque in pariatur. Dignissimos perferendis totam.
+  price: !ruby/object:BigDecimal 18:0.8285E2
+  created_at: 2014-08-08 23:46:05.319210000 Z
+  updated_at: 2014-08-08 23:46:05.319210000 Z
+item_36:
+  name: Awesome Plastic Pants
+  description: Vel repellat perferendis quam. Distinctio ut veritatis. Voluptatem
+    quia autem a nisi adipisci suscipit.
+  price: !ruby/object:BigDecimal 18:0.362E2
+  created_at: 2014-08-08 23:46:05.320911000 Z
+  updated_at: 2014-08-08 23:46:05.320911000 Z
+item_37:
+  name: Awesome Plastic Pants
+  description: Rem eius quis est. Hic et incidunt sit ipsa quisquam enim. Ea eos amet
+    perferendis. Commodi est quia possimus. Voluptatem repudiandae aperiam voluptatem
+    unde praesentium sint.
+  price: !ruby/object:BigDecimal 18:0.5672E2
+  created_at: 2014-08-08 23:46:05.323272000 Z
+  updated_at: 2014-08-08 23:46:05.323272000 Z
+item_38:
+  name: Fantastic Wooden Chair
+  description: Consequuntur error ut ut unde. Cum aut tempora quasi deleniti doloribus
+    at. Sapiente tempore dolor accusamus est ut. Delectus deleniti repellat tempore
+    pariatur. Adipisci recusandae incidunt saepe veritatis molestiae molestiae voluptate.
+  price: !ruby/object:BigDecimal 18:0.7836E2
+  created_at: 2014-08-08 23:46:05.325729000 Z
+  updated_at: 2014-08-08 23:46:05.325729000 Z
+item_39:
+  name: Fantastic Steel Chair
+  description: Nam non ratione accusamus. Eligendi animi ut deserunt et modi qui.
+    Illum et odit quasi.
+  price: !ruby/object:BigDecimal 18:0.8861E2
+  created_at: 2014-08-08 23:46:05.327601000 Z
+  updated_at: 2014-08-08 23:46:05.327601000 Z
+item_40:
+  name: Ergonomic Steel Shirt
+  description: Ut deserunt aut officia sed. Et accusantium enim mollitia est eveniet
+    eum. Laborum et maxime voluptatem. Et vitae nihil sint id debitis voluptatum odit.
+    Sint ut est.
+  price: !ruby/object:BigDecimal 18:0.408E2
+  created_at: 2014-08-08 23:46:05.329406000 Z
+  updated_at: 2014-08-08 23:46:05.329406000 Z

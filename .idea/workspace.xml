@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="211a0b71-f121-4559-a9e0-3a7bff764a69" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/.keep" />
+    </list>
+    <ignored path="hacklab_store.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hacklab_store@db_migrate_reset__hacklab_store.coverage" NAME="db:migrate:reset: hacklab_store Coverage Results" MODIFIED="1407570325174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="hacklab_store" />
+    <SUITE FILE_PATH="coverage/hacklab_store@fixtures_prepare__hacklab_store.coverage" NAME="fixtures:prepare: hacklab_store Coverage Results" MODIFIED="1407543612561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="hacklab_store" />
+    <SUITE FILE_PATH="coverage/hacklab_store@db_migrate__hacklab_store.coverage" NAME="db:migrate: hacklab_store Coverage Results" MODIFIED="1407570356552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="hacklab_store" />
+    <SUITE FILE_PATH="coverage/hacklab_store@Run_spec__exercise_1_spec___hacklab_store.coverage" NAME="Run spec 'exercise_1_spec': hacklab_store Coverage Results" MODIFIED="1407543115233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="hacklab_store" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hacklab_store" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="exercise_1_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/models/exercise_1_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise_2_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/models/exercise_2_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".rspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.rspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hacklab.rake" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/hacklab.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rails_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5485714" vertical-offset="0" max-vertical-offset="525">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1344">
+              <caret line="6" column="85" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fixtures.rake" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/fixtures.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
+              <caret line="0" column="53" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/models/line_item.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20140805115337_create_items.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20140805130903_create_orders.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20140805131040_line_items.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20140805131040_create_line_items.rb" />
+        <option value="$PROJECT_DIR$/app/models/order.rb" />
+        <option value="$PROJECT_DIR$/app/models/item.rb" />
+        <option value="$PROJECT_DIR$/app/models/account.rb" />
+        <option value="$PROJECT_DIR$/lib/tasks/fixtures.rake" />
+        <option value="$PROJECT_DIR$/spec/models/exercise_1_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/lib/tasks/hacklab.rake" />
+        <option value="$PROJECT_DIR$/db/schema.rb" />
+        <option value="$PROJECT_DIR$/spec/models/exercise_2_spec.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hacklab_store2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="RailsProjectView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="LayoutCode.rearrangeEntriesRuby" value="false" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+  </component>
+  <component name="RunManager" selected="Rake.db:migrate: hacklab_store">
+    <configuration default="false" name="Run spec 'exercise_1_spec': hacklab_store" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="hacklab_store" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/exercise_1_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fixtures:prepare: hacklab_store" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="hacklab_store" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="fixtures:prepare" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="db:migrate:reset: hacklab_store" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="hacklab_store" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="development" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate:reset" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="db:migrate: hacklab_store" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="hacklab_store" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="development" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: hacklab_store" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: hacklab_store" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: hacklab_store" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: hacklab_store" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'exercise_1_spec': hacklab_store" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.fixtures:prepare: hacklab_store" />
+      <item index="6" class="java.lang.String" itemvalue="Rake.db:migrate:reset: hacklab_store" />
+      <item index="7" class="java.lang.String" itemvalue="Rake.db:migrate: hacklab_store" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate: hacklab_store" />
+        <item index="1" class="java.lang.String" itemvalue="Rake.db:migrate:reset: hacklab_store" />
+        <item index="2" class="java.lang.String" itemvalue="Rake.fixtures:prepare: hacklab_store" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'exercise_1_spec': hacklab_store" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="211a0b71-f121-4559-a9e0-3a7bff764a69" name="Default" comment="" />
+      <created>1406892847704</created>
+      <updated>1406892847704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3390558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spec/models/exercise_1_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="368">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/exercise_2_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="368">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/fixtures.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
+          <caret line="0" column="53" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/users.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12912">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/accounts.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="28912">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_201:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_202:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_203:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_204:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_205:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_206:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_207:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_208:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_209:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_210:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_211:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_212:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_213:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_214:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_215:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_216:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_217:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_218:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_219:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_220:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_221:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_222:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_223:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_224:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_225:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_226:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_227:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_228:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_229:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_230:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_231:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_232:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_233:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_234:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_235:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_236:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_237:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_238:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_239:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_240:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_241:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_242:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_243:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_244:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_245:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_246:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_247:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_248:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_249:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_250:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_251:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_252:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_253:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_254:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_255:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_256:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_257:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_258:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_259:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_260:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_261:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_262:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_263:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_264:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_265:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_266:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_267:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_268:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_269:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_270:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_271:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_272:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_273:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_274:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_275:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_276:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_277:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_278:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_279:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_280:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_281:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_282:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_283:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_284:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_285:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_286:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_287:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_288:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_289:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_290:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_291:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_292:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_293:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_294:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_295:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_296:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_297:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_298:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_299:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_300:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_301:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_302:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_303:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_304:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_305:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_306:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_307:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_308:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_309:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_310:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_311:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_312:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_313:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_314:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_315:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_316:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_317:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_318:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_319:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_320:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_321:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_322:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_323:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_324:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_325:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_326:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_327:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_328:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_329:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_330:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_331:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_332:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_333:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_334:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_335:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_336:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_337:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_338:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_339:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_340:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_341:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_342:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_343:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_344:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_345:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_346:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_347:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_348:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_349:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_350:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_351:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_352:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_353:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_354:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_355:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_356:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_357:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_358:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_359:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_360:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_361:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_362:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_363:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_364:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_365:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_366:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_367:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_368:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_369:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_370:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_371:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_372:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_373:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_374:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_375:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_376:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_377:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_378:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_379:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_380:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_381:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_382:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_383:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_384:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_385:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_386:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_387:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_388:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_389:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_390:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_391:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_392:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_393:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_394:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_395:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_396:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_397:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_398:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_399:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_400:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/line_items.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/items.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2544">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_21:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_22:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_23:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_24:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_25:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_26:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_27:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_28:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_29:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_30:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_31:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_32:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_33:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_34:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_35:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_36:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_37:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_38:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_39:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_40:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/orders.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="128112">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1407543615000" expanded="true" signature="-1:-1" placeholder="order_2965:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/hacklab.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="448">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@hacklab_store/gems/activerecord-4.1.0/lib/active_record/relation/batches.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30210325" vertical-offset="306" max-vertical-offset="2320">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@hacklab_store/gems/activerecord-4.1.0/lib/active_record/querying.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2644628" vertical-offset="0" max-vertical-offset="1136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="523">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@hacklab_store/gems/sass-3.2.19/vendor/listen/spec/support/fixtures_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39388144" vertical-offset="18" max-vertical-offset="560">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@hacklab_store/gems/activerecord-4.1.0/lib/active_record/fixtures.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52156866" vertical-offset="13286" max-vertical-offset="16432">
+          <caret line="847" column="10" selection-start-line="847" selection-start-column="10" selection-end-line="847" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/orders.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="128112">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1407543615000" expanded="true" signature="-1:-1" placeholder="order_2965:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/line_items.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/items.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2544">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_21:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_22:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_23:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_24:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_25:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_26:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_27:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_28:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_29:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_30:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_31:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_32:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_33:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_34:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_35:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_36:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_37:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_38:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_39:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="item_40:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/users.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12912">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/accounts.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28912">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_201:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_202:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_203:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_204:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_205:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_206:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_207:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_208:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_209:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_210:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_211:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_212:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_213:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_214:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_215:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_216:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_217:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_218:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_219:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_220:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_221:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_222:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_223:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_224:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_225:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_226:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_227:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_228:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_229:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_230:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_231:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_232:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_233:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_234:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_235:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_236:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_237:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_238:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_239:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_240:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_241:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_242:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_243:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_244:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_245:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_246:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_247:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_248:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_249:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_250:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_251:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_252:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_253:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_254:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_255:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_256:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_257:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_258:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_259:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_260:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_261:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_262:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_263:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_264:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_265:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_266:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_267:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_268:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_269:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_270:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_271:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_272:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_273:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_274:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_275:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_276:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_277:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_278:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_279:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_280:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_281:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_282:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_283:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_284:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_285:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_286:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_287:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_288:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_289:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_290:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_291:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_292:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_293:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_294:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_295:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_296:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_297:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_298:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_299:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_300:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_301:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_302:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_303:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_304:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_305:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_306:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_307:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_308:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_309:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_310:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_311:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_312:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_313:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_314:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_315:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_316:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_317:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_318:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_319:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_320:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_321:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_322:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_323:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_324:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_325:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_326:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_327:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_328:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_329:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_330:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_331:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_332:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_333:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_334:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_335:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_336:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_337:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_338:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_339:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_340:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_341:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_342:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_343:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_344:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_345:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_346:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_347:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_348:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_349:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_350:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_351:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_352:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_353:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_354:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_355:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_356:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_357:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_358:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_359:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_360:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_361:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_362:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_363:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_364:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_365:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_366:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_367:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_368:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_369:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_370:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_371:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_372:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_373:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_374:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_375:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_376:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_377:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_378:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_379:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_380:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_381:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_382:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_383:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_384:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_385:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_386:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_387:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_388:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_389:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_390:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_391:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_392:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_393:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_394:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_395:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_396:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_397:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_398:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_399:" />
+            <marker date="1407543614000" expanded="true" signature="-1:-1" placeholder="account_400:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/.keep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/.keep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="523">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/fixtures.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
+          <caret line="0" column="53" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/hacklab.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/exercise_1_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/exercise_2_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="1344">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/secrets.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="512">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5485714" vertical-offset="0" max-vertical-offset="525">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

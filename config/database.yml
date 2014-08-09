@@ -1,0 +1,19 @@
+development:
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
+  database: hacklab_store_development<%= ENV['DEVELOPMENT_ENV_NUMBER'] %>
+  pool: 5
+  username: postgres
+  password: postgres
+  min_messages: WARNING
+
+test: 
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
+  database: hacklab_store_test<%= ENV['TEST_ENV_NUMBER'] %>
+  pool: 5
+  username: postgres
+  password: postgres
+  min_messages: WARNING
